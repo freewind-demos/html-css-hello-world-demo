@@ -1,8 +1,4 @@
-Css Hello World Demo
+Css Disable Input Demo
 ====================
 
-Use css in html pages.
-
 Open `index.html` in your browser.
-
-![demo](./images/demo.jpg)
